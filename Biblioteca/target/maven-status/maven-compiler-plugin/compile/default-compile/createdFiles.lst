@@ -1,0 +1,7 @@
+src\main\GerenciadorDeEmprestimos.class
+src\main\Livro.class
+src\main\ArquivoJson$LivrosContainer.class
+src\main\ManipuladorDeCliente.class
+src\main\BibliotecaServer.class
+src\main\ArquivoJson.class
+src\main\BibliotecaCliente.class
