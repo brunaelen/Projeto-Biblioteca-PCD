@@ -21,7 +21,7 @@ public class BibliotecaCliente {
             System.out.println("Conectado ao servidor da biblioteca.");
             String request;
             while (true) {
-                System.out.println("\n==========\nMENU\n==========\n Listar\n Alugar [nome]\n Devolver [nome]\n Cadastrar [nome], [autor], [genero], [numeroDeExemplares]\n Sair\n\nOpção:");
+                System.out.println("\n==========\nMENU\n==========\n Listar\n Alugar [nome]\n Devolver [nome]\n Cadastrar [nome]; [author]; [genero]; [numeroDeExemplares]\n Sair\n\nOpção:");
                 request = scanner.nextLine();
                 if (request.equalsIgnoreCase("Sair")) {
                     break;
